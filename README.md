@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rodrigo Abubakir
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digoabubakir&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digoabubakir&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia dia
 

@@ -38,7 +38,7 @@
 
 <h4 align="left">📧 Email: rodrigoabubakir07@gmail.com
                  <br>💼 LinkedIn: www.linkedin.com/in/rodrigo-abubakir-56918128b
-                 <br>📱 WhatsApp: +55 (11)97054-3054</h4>
+                 
 
 
 ###

@@ -5,7 +5,7 @@
 
 ###
 
-<h4 align="left">- 🚀 Software Engineer com experiência em desenvolvimento Front-end e Back-end.<br>- 🎯 Buscando sempre aprender novas tecnologias e aprimorar minhas habilidades.<br>- 🔍 Interesse em Java - SpringBoot, JavaScript/TypeScript, React, Node.js e bancos de dados.<br>- 🏆 Apaixonado por desafios e resolução de problemas.</h4>
+<h4 align="left">- 🚀 Software Engineer with experience in Front-end and Back-end development.<br>- 🎯 Always looking to learn new technologies and improve my skills.<br>- 🔍 Interest in Java - SpringBoot, JavaScript/TypeScript, React, Node.js and databases.<br>- 🏆 Passionate about challenges and problem solving.</h4>
 
 ###
 

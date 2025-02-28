@@ -1,8 +1,8 @@
-<h2 align="left">About me</h2>
+<h2 align="left">Abot me</h2>
 
 ###
 
-<p align="left">- 🚀 Software Engineer com experiência em desenvolvimento Front-end e Back-end.<br>- 🎯 Buscando sempre aprender novas tecnologias e aprimorar minhas habilidades.<br>- 🔍 Interesse em Java - SpringBoot, JavaScript, React, Node.js e bancos de dados.<br>- 🏆 Apaixonado por desafios e resolução de problemas.</p>
+<h4 align="left">- 🚀 Software Engineer com experiência em desenvolvimento **Front-end** e **Back-end**.<br>- 🎯 Buscando sempre aprender novas tecnologias e aprimorar minhas habilidades.<br>- 🔍 Interesse em **Java - SpringBoot**, **JavaScript**, **React**, **Node.js** e **bancos de dados**.<br>- 🏆 Apaixonado por desafios e resolução de problemas.</h4>
 
 ###
 
@@ -27,5 +27,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
+
+###
+
+<h2 align="left">Contact me</h2>
+
+###
+
+<h4 align="left">📧 Email: rodrigoabubakir07@gmail.com</h4>
 
 ###

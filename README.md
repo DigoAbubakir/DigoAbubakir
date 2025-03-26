@@ -15,7 +15,7 @@
 ###
 
 <h4 align="left">📧 Email: rodrigoabubakir07@gmail.com
-                 <br>💼 LinkedIn: www.linkedin.com/in/rodrigo-abubakir-56918128b
+  
                  
 
 

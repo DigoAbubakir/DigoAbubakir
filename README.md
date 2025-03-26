@@ -13,11 +13,6 @@
 
 ###
 
-
-###
-
-<h2 align="left">Contact me</h2>
-
 ###
 
 <h4 align="left">📧 Email: rodrigoabubakir07@gmail.com

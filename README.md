@@ -1,4 +1,4 @@
-# Hello, my name is Rodrigo!
+# Hi there, I'm Rodrigo!
 
 
 <h2 align="left">About me</h2>

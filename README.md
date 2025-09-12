@@ -6,7 +6,7 @@
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:**
 
 - 👨🏻‍💻 Now I'm a student of Software Engineering at **FIAP - Faculdade de Informática e Administração Paulista**
-- ⚡ One curiosity: **I love Data science**
+- ⚡ One curiosity: **Passionate about problem solving**
 - ⚡ Second curiosity: **I'm doing a big project 🤫**
 
 <!-- Languages and Tools -->
@@ -14,14 +14,14 @@
 
 ### 🤓 My Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,html,css,js,python,flask,r" />
+  <img src="https://skillicons.dev/icons?i=git,html,css,js,python,java" />
 </div>
 
 <br>
 
 ### 🖥️ My Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,pycharm,mysql,figma" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,pycharm,mysql,figma,webstorm,idea" />
 </div>
 
 <br>
@@ -53,7 +53,7 @@
   <a href="https://www.instagram.com/rodrigo.abubakir/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=0d1117&style=for-the-badge&logo=instagram&logoColor=white&labelColor=E02C2C" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/vitor-ramos-tech/" target="_blank">
+  <a href="www.linkedin.com/in/rodrigo-abubakir" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0d1117&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=E02C2C" alt="LinkedIn"/>
   </a>
 </div>

@@ -47,10 +47,10 @@
 ## <img src="https://media.tenor.com/kaYTu--3q_EAAAAi/pepe-calling.gif" width="30"> **Connect with Me**
 
 <div align="center">
-  <a href="mailto:vitramosf@gmail.com">
+  <a href="mailto:rodrigoabubakir07@gmail.com">
     <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=0d1117&style=for-the-badge&logo=gmail&logoColor=white&labelColor=E02C2C" alt="Gmail"/>
   </a>
-  <a href="https://www.instagram.com/vramosf_06/" target="_blank">
+  <a href="https://www.instagram.com/rodrigo.abubakir/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=0d1117&style=for-the-badge&logo=instagram&logoColor=white&labelColor=E02C2C" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/vitor-ramos-tech/" target="_blank">

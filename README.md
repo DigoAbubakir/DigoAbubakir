@@ -12,7 +12,7 @@
 <!-- Languages and Tools -->
 <br>
 
-### 🤓 My Languages
+### My Languages
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,html,css,js,python,java,typescript" />
 </div>

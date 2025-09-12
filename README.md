@@ -5,14 +5,10 @@
 <!-- Perfil Stats -->
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:**
 
-👨🏻‍💻 Passionate about technology and coding
-
-🎓 Software Engineering student at FIAP
-
-🛠️ Experience with Java, React, and Node.js
-
-⚡ Fun fact: Always looking for new challenges to learn and grow
-
+- 👨🏻‍💻 Passionate about technology and coding
+- 🎓 Software Engineering student at FIAP
+- 🛠️ Experience with Java, React, and Node.js
+- ⚡ Fun fact: Always looking for new challenges to learn and grow
 <!-- Languages and Tools -->
 <br>
 

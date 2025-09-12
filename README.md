@@ -5,9 +5,13 @@
 <!-- Perfil Stats -->
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:**
 
-- 👨🏻‍💻 Now I'm a student of Software Engineering at **FIAP - Faculdade de Informática e Administração Paulista**
-- ⚡ One curiosity: **Passionate about problem solving**
-- ⚡ Second curiosity: **I'm doing a big project 🤫**
+👨🏻‍💻 Passionate about technology and coding
+
+🎓 Software Engineering student at FIAP
+
+🛠️ Experience with Java, React, and Node.js
+
+⚡ Fun fact: Always looking for new challenges to learn and grow
 
 <!-- Languages and Tools -->
 <br>

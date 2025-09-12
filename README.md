@@ -53,7 +53,7 @@
   <a href="https://www.instagram.com/rodrigo.abubakir/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=0d1117&style=for-the-badge&logo=instagram&logoColor=white&labelColor=E02C2C" alt="Instagram"/>
   </a>
-  <a href="www.linkedin.com/in/rodrigo-abubakir" target="_blank">
+  <a href="https://www.linkedin.com/in/rodrigo-abubakir/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0d1117&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=E02C2C" alt="LinkedIn"/>
   </a>
 </div>

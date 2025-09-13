@@ -21,7 +21,7 @@
 
 ### 🖥️ My Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql,figma,webstorm,idea" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql,figma,webstorm,idea,postgres,postman" />
 </div>
 
 <br>
